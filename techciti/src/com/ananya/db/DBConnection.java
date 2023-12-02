@@ -10,7 +10,7 @@ public static Connection createConnection()
     Connection con = null;
     String url = "jdbc:mysql://localhost:3306/techciti"; 
     String username = "root";
-    String password = "gunarama";
+    String password = "";
     
     try 
     {
